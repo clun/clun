@@ -1,7 +1,22 @@
-### Hi This is Cedrick Lunven, Director of Developer Advocacy @DataStax
+## I am `Cedrick Lunven` 
 
-- 🔭 I’m currently working on `FF4j` [ff4j.org](ff4j.org) and DataStax Sample applications
-- 🌱 I’m currently learning `React`, `Redux` and more `Javascript`
-- 💬 Ask me about `FF4j`, `NoSQL` databases
-- 📫 How to reach me: [@clunven](https://twitter.com/clunven) on twitter
-- ⚡ **Fun fact:** *everything has an end except a sausage that has two ends*
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=clun&label=Profile%20views&color=0e75b6&style=flat" alt="clun" /> </p>
+
+### I lead the `Developer Advocacy team` 🥑 🥑 🥑 @[DataStax](datastax.com)
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=clun&show_icons=true&locale=en&layout=compact" alt="clun" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=clun&show_icons=true&locale=en" alt="clun" />
+</p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+   <br/>
+   <img src="https://github-profile-trophy.vercel.app/?username=clun" alt="clun" />
+</a> 
+</p>
+<p>
+  <li>I’m currently working on <b><a href="ff4j.org"/>FF4j</a></b> the leading implementation of Feature Flags for Java
+  <li>I animate the youtube channel <a href="https://www.youtube.com/c/DataStaxDevs">DataStaxdevs</a>
+<li><b>⚡ Fun fact:</b> <i>everything has an end except a sausage that has two ends</i>
+</p>
+
