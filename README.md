@@ -8,6 +8,6 @@
 <p>
   <li>I’m currently working on <b><a href="ff4j.org"/>FF4j</a></b> the leading implementation of Feature Flags for Java
   <li>I animate the youtube channel <a href="https://www.youtube.com/c/DataStaxDevs">DataStaxdevs</a>
-<li><b>⚡ Fun fact:</b> <i>everything has an end except a sausage that has two ends</i>
+<li><b>⚡ Fun fact:</b> <i>everything comes to an end - except a sausage -  it has two ends</i>
 </p>
 
